@@ -2,6 +2,7 @@
 A simple python script to scrape CBSE's website and get the marks of all students
 
 Range information:
+
 1600001 till 1719685
 
 2600001 till 2764100
