@@ -24,3 +24,5 @@ Range information:
 9600001 - 9770351
 
 credits for finding this goes to /u/p8q9y0a
+
+All the students marks has been converted to MATLAB cell arrays/tables as I've been using MATLAB to process data. 
